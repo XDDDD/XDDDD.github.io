@@ -3,7 +3,18 @@
   
   <url>
     <loc>http://xdddd.github.com/</loc>
+    <lastmod>2015-12-08T16:46:39+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://xdddd.github.com/posts/tst/</loc>
+    <lastmod>2015-12-08T16:46:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xdddd.github.com/posts/first-post/</loc>
+    <lastmod>2015-12-08T16:43:03+08:00</lastmod>
   </url>
   
 </urlset>
